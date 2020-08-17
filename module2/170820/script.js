@@ -1,0 +1,1 @@
+alert(`Kto zapustil, tot LOH`)
